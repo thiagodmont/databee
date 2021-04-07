@@ -1,0 +1,26 @@
+{
+  "name": "databee",
+  "version": "1.0.0",
+  "description": "Simple ORM for mysql",
+  "keywords": [
+    "mysql",
+    "orm",
+    "database"
+  ],
+  "homepage": "https://github.com/thiagodmont/databee",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thiagodmont/databee"
+  },
+  "author": "Thiago Monteiro Dolabella<thiago.dmont@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "engineStrict": true
+}
